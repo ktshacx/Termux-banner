@@ -18,4 +18,6 @@ A best tool to make banner in termux
 
 YouTube - [https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A](https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A)
 
----- Thank You for Visiting ----
+Instagram - [https://www.instagram.com/invites/contact/?i=yummlyug98jx&utm_content=dqo31f0](https://www.instagram.com/invites/contact/?i=yummlyug98jx&utm_content=dqo31f0)
+
+**<---- Thank You for Visiting ---->**
