@@ -23,4 +23,8 @@ YouTube - [https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A](https://www
 
 Instagram - [https://www.instagram.com/invites/contact/?i=yummlyug98jx&utm_content=dqo31f0](https://www.instagram.com/invites/contact/?i=yummlyug98jx&utm_content=dqo31f0)
 
+## Note
+
+`This tool is only for termux.`
+
 **<---- Thank You for Visiting ---->**
