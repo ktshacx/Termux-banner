@@ -12,3 +12,7 @@ A best tool to make banner in termux
 5.)`./requirement.sh`
 
 6.)`./banner.sh`
+
+## Credits
+**Krishnendu Maity - Krish Tech studio YouTube Channel**
+YouTube - [https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A](https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A)
