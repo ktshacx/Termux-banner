@@ -15,4 +15,7 @@ A best tool to make banner in termux
 
 ## Credits
 **Krishnendu Maity - Krish Tech studio YouTube Channel**
+
 YouTube - [https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A](https://www.youtube.com/channel/UC8RfxEaqWJf40lOQGNd4t4A)
+
+---- Thank You for Visiting ----
