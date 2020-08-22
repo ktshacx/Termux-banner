@@ -1,4 +1,7 @@
 # Termux-banner
+![build](https://img.shields.io/badge/Build-Done-green)
+![ratings](https://img.shields.io/badge/Ratings-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-orange)
+
 A best tool to make banner in termux
 ## Installation
 1.)`pkg install git`
