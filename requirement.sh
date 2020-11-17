@@ -12,6 +12,7 @@ apt install ruby -y
 gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
-echo -e "\e[1m Now Run bash banner.sh"
+echo -e "\e[1m Now Runing main process"
 echo
-echo -e "\e[44mCreated by Krish Tech Studio"
+echo -e "\e[44mCreated by Krish Tech Studio\e[0m"
+bash banner.sh
